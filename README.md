@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React/Redux**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **moneyforey786@gmail.com**
 
