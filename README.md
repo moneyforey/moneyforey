@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moneyforey&show_icons=true&locale=en" alt="moneyforey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moneyforey&" alt="moneyforey" /></p>
+
+
+<img src="https://camo.githubusercontent.com/bd29d095da924974bbef01ece97e148fe41a295f116333ca4408efe5162de4e0/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d48617368616c38393026696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" alt="GitHub Activity Graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=moneyforey&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
