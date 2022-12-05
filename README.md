@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manish Faujdar</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">An Aspiring Full stack Web Developer with a
+specialization in MERN stack. Well-versed in
+technology and writing code to create applications
+that are reliable and user-friendly. Looking for an
+opportunity to apply knowledge and
+skills in programming within an organization that
+will utilize and enhance talents to the fullest.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneyforey&label=Profile%20views&color=0e75b6&style=flat" alt="moneyforey" /> </p>
 
