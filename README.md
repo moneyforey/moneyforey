@@ -13,7 +13,7 @@ will utilize and enhance talents to the fullest.</h3>
 
 <p align="left"> <a href="https://twitter.com/moneyforey786" target="blank"><img src="https://img.shields.io/twitter/follow/moneyforey786?logo=twitter&style=for-the-badge" alt="moneyforey786" /></a> </p>
 
-- 🌱 I’m currently learning **React/Redux**
+- 🌱 I’m currently learning **Nodejs**
 
 - 💬 Ask me about **MERN**
 
