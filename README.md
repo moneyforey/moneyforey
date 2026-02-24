@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish Faujdar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Manish Faujdar</h1>
 <h3 align="center">An Aspiring Full stack Web Developer with a
 specialization in MERN stack. Well-versed in
 technology and writing code to create applications
@@ -37,4 +37,78 @@ will utilize and enhance talents to the fullest.</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moneyforey&" alt="moneyforey" /></p>
 
+ -->
 
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20I'm%20Manish%20Faujdar&fontSize=70&animation=fadeIn" />
+  
+  <h3>Full Stack Web Developer | MERN Specialist</h3>
+  
+  <p>
+    <a href="https://twitter.com/moneyforey786" target="blank"><img src="https://img.shields.io/twitter/follow/moneyforey786?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white" alt="moneyforey786" /></a>
+    <a href="https://www.linkedin.com/in/manish-faujdar-b485b2172/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  </p>
+</div>
+
+---
+
+### 💫 About Me
+An aspiring **Full Stack Developer** specializing in the **MERN stack**. I thrive on turning complex problems into elegant, user-friendly applications. I'm currently deepening my expertise in backend architecture and scalable systems.
+
+- 🌱 **Currently Learning:** Advanced Node.js patterns and Microservices.
+- 💬 **Ask me about:** React, Redux, and MongoDB schema design.
+- ⚡ **Fun fact:** Each day has a different color for me! (Synesthesia-inspired coding?)
+- 🌍 **Portfolio:** [Check out my work here](https://moneyforey.github.io/)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Backend</strong></td>
+    <td align="center" width="25%"><strong>Utilities</strong></td>
+    <td align="center" width="25%"><strong>DevOps/OS</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,bootstrap" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=babel,webpack,jest,postman" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,heroku,linux" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moneyforey&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moneyforey&layout=compact&langs_count=7&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moneyforey&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=moneyforey&theme=radical&no-frame=false&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=moneyforey&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
+</div>
